@@ -5,3 +5,9 @@ Pong – gra komputerowa będąca symulacją tenisa stołowego przy użyciu graf
 
 ![pong screen](https://user-images.githubusercontent.com/48321017/73454240-f179a980-436d-11ea-97c4-97f6bd38388c.png)
 
+## Opis
+Gra Pong stworzona przy pomocy Windows Presentation Foundation jako prosta aplikacja okienkowa jako projekt semestralny na przedmiot Programowanie Obiektowe w języku C# na Wyższej Szkole Ekonomii i Informatyki w Krakowie.
+
+##Autorzy i podział:
+* Mariusz Franik
+* Dominik Pułka
